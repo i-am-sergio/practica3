@@ -62,6 +62,47 @@ Para ejecutar nuestro proyecto, utilizamos el comando `mvn spring-boot:run`. A c
 
 [![spring2.png](https://i.postimg.cc/qq4Hdmf9/spring2.png)](https://postimg.cc/Pp3RWQ54)
 
+### Opciones de Compilación
+
+Aquí tienes una lista de opciones de compilación comunes que puedes utilizar con Maven:
+
+1. **mvn clean install**:
+   - **clean**: Limpia cualquier artefacto compilado anteriormente.
+   - **install**: Compila el proyecto y lo instala en tu repositorio local de Maven, lo que permite que otras dependencias o proyectos lo utilicen.
+
+2. **mvn package**:
+   - **package**: Compila el proyecto y crea un archivo JAR (o WAR si es una aplicación web) en el directorio `target` del proyecto.
+
+3. **mvn clean**:
+   - **clean**: Limpia el directorio de salida (`target`) eliminando los archivos generados durante la compilación anterior.
+
+4. **mvn compile**:
+   - **compile**: Compila el código fuente del proyecto sin empaquetarlo en un archivo JAR o WAR.
+
+5. **mvn test**:
+   - **test**: Ejecuta las pruebas unitarias del proyecto.
+
+6. **mvn install**:
+   - **install**: Instala el proyecto en el repositorio local de Maven para que otros proyectos puedan utilizarlo como dependencia.
+
+7. **mvn package**:
+   - **package**: Empaqueta el proyecto en un archivo JAR, WAR u otro formato especificado en el archivo `pom.xml` y lo coloca en el directorio `target`.
+
+8. **mvn dependency:tree**:
+   - **dependency:tree**: Muestra un árbol de dependencias del proyecto, lo que te permite ver todas las dependencias y subdependencias.
+
+9. **mvn spring-boot:run**:
+   - **spring-boot:run**: Ejecuta la aplicación Spring Boot directamente desde Maven. Este comando es útil durante el desarrollo para probar la aplicación sin necesidad de empaquetarla y desplegarla por separado.
+
+10. **mvn clean test -Dtest=NombreDeLaClaseDePrueba**:
+    - **clean test -Dtest=NombreDeLaClaseDePrueba**: Ejecuta una prueba específica por nombre de clase.
+
+Estas opciones te ayudarán a compilar, probar y ejecutar tu proyecto de manera efectiva utilizando Maven.
+
+
+### Estructura de Proyecto
+
+[![image.png](https://i.postimg.cc/CLzpprzf/image.png)](https://postimg.cc/JGV2bq31)
 
 ## Archivo: pom.xml [Link](pom.xml)
 
