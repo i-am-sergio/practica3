@@ -11,11 +11,19 @@
 * Visualizar resultados de construcción
 
 ## TUTORIAL
-* Download JDK (JAVA 17) in Oracle:
+### Download JDK (JAVA 17) in Oracle:
 [![image.png](https://i.postimg.cc/C5RvfkVc/image.png)](https://postimg.cc/PvkbgLJD)
 
 * Installing JDK:
 
 [![image-1.png](https://i.postimg.cc/SKKtpwv0/image-1.png)](https://postimg.cc/SnwG6t4V)
 
+* Successfully installed JDK:
 [![image.png](https://i.postimg.cc/TPyq0GsP/image.png)](https://postimg.cc/nsJDc8p8)
+
+###Configure Your Environment variables:
+'''JAVA_HOME = C:\Program Files\Java\jdk-17 //(This could be another version of JDK)
+MAVEN_HOME = C:\Program Files\Maven\apache-maven-3.9.4  //(This could be another version of Maven)'''
+Add to Path:
+%JAVA_HOME%\bin
+%MAVEN_HOME%\bin
