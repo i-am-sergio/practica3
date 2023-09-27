@@ -13,7 +13,9 @@
 ## TUTORIAL
 * Download JDK (JAVA 17) in Oracle:
 [![image.png](https://i.postimg.cc/C5RvfkVc/image.png)](https://postimg.cc/PvkbgLJD)
+
 * Installing JDK:
+
 [![image-1.png](https://i.postimg.cc/SKKtpwv0/image-1.png)](https://postimg.cc/SnwG6t4V)
 
 [![image.png](https://i.postimg.cc/TPyq0GsP/image.png)](https://postimg.cc/nsJDc8p8)
