@@ -44,7 +44,9 @@ Agregar a la variable Path: `%JAVA_HOME%\bin` `%MAVEN_HOME%\bin`
 
 [![image-2.png](https://i.postimg.cc/Bvpvy11Z/image-2.png)](https://postimg.cc/t11ynJ58)
 
-## Ejecución del Proyecto
+## Aplicación del Dependency Manager (Maven) en un Proyecto
+
+### Ejecución del Proyecto
 
 Para ejecutar nuestro proyecto, utilizamos el comando `mvn spring-boot:run`. A continuación, se detalla el proceso:
 
