@@ -22,10 +22,9 @@
 [![image.png](https://i.postimg.cc/TPyq0GsP/image.png)](https://postimg.cc/nsJDc8p8)
 
 ### Configure Your Environment variables:
-'''
-JAVA_HOME = C:\Program Files\Java\jdk-17 //(This could be another version of JDK)
-MAVEN_HOME = C:\Program Files\Maven\apache-maven-3.9.4  //(This could be another version of Maven)
-'''
+JAVA_HOME = `C:\Program Files\Java\jdk-17` //(This could be another version of JDK)
+MAVEN_HOME = `C:\Program Files\Maven\apache-maven-3.9.4` //(This could be another version of Maven)
+
 Add to Path:
-%JAVA_HOME%\bin
-%MAVEN_HOME%\bin
+`%JAVA_HOME%\bin`
+`%MAVEN_HOME%\bin`
