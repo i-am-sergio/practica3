@@ -30,3 +30,8 @@ MAVEN_HOME = `C:\Program Files\Maven\apache-maven-3.9.4` //(This could be anothe
 Add to Path: `%JAVA_HOME%\bin` `%MAVEN_HOME%\bin`
 
 [![variables-entorno.png](https://i.postimg.cc/NjXR2b2y/variables-entorno.png)](https://postimg.cc/DS2StrgF)
+
+### Install Visual Studio Code Extensions:
+- Spring Initializr Java Support (To add dependencies to your project)
+
+- Language Support for Java
