@@ -12,3 +12,4 @@
 
 ## TUTORIAL
 * Download jdk (JAVA 17) in Oracle:
+[![image.png](https://i.postimg.cc/C5RvfkVc/image.png)](https://postimg.cc/PvkbgLJD)
