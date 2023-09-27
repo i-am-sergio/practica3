@@ -1,14 +1,5 @@
 # Práctica 03: Construcción Automática de Proyectos
 
-## ACTIVIDADES:
-1. Configuración de la herramienta de construcción automática, ya sea localmente o mediante su IDE favorito.
-2. Creación de un modelo (archivo de configuración) de construcción para el proyecto de software elegido. Este modelo debe contener la siguiente información:
-   - Información del proyecto: nombre, versión, tipo de archivo, ...
-   - Opciones de compilación: compilador, versión, ...
-   - Gestión de dependencias: bibliotecas utilizadas por el proyecto.
-3. Construcción del proyecto utilizando el modelo creado.
-4. Visualización de los resultados de la construcción.
-
 ## TUTORIAL
 
 ### Descargar JDK (JAVA 17) de Oracle:
